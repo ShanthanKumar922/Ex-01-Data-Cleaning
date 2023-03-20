@@ -20,6 +20,6 @@ Save the Clean data to the file
 
 # CODE
 Name:O.Shanthan Kumar Reddy
-Reg. No: 212220040107
+         Reg. No: 212220040107
 
 # OUPUT
