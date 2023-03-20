@@ -19,5 +19,4 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
-![data set 1](https://user-images.githubusercontent.com/127843136/226261769-514195f8-7046-4d1d-ab1a-72c5223ad09d.png)
 # OUPUT
