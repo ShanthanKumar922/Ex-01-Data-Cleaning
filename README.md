@@ -5,23 +5,24 @@ To read the given data and perform data cleaning and save the cleaned data to a 
 # Explanation
 Data cleaning is the process of preparing data for analysis by removing or modifying data that is incorrect ,incompleted , irrelevant , duplicated or improperly formatted. Data cleaning is not simply about erasing data ,but rather finding a way to maximize datasets accuracy without necessarily deleting the information.
 
-ALGORITHM
-STEP 1
+# ALGORITHM
+# STEP 1
 Read the given Data
 
-STEP 2
+# STEP 2
 Get the information about the data
 
-STEP 3
+# STEP 3
 Remove the null values from the data
 
-STEP 4
+# STEP 4
 Save the Clean data to the file
 
-CODE
-/* 
+# CODE
 Name : Aakash H
 Register Number : 212220040002
+
+/* 
 **Data Cleaning - Data_set.csv**
 import numpy as np
 import pandas as pd
