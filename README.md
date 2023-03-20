@@ -20,6 +20,34 @@ Save the Clean data to the file
 
 # CODE
 Name:O.Shanthan Kumar Reddy
-         Reg. No: 212220040107
+Reg. No: 212220040107
 
+Data_set:
+!!!
+import numpy as np
+import pandas as pd
+import io
+from google.colab import files
+uploaded = files.upload()
+dd = pd.read_csv(io.BytesIO(uploaded['Data_set.csv']))
+print(dd)
+dd.tail()
+dd.info()
+dd.isnull()
+dd.isnull().sum()
+#mode
+dd['show_name'] = dd['show_name'].fillna(dd['aired_on'].mode()[0])
+dd['aired_on'] = dd['aired_on'].fillna(dd['aired_on'].mode()[0])
+dd['original_network'] = dd['original_network'].fillna(dd['aired_on'].mode()[0])
+dd.head()
+#mean
+dd['rating'] = dd['rating'].fillna(dd['rating'].mean())
+dd['current_overall_rank'] =dd['current_overall_rank'].fillna(dd['current_overall_rank'].mean())
+dd.head()
+#median
+dd['watchers'] = dd['watchers'].fillna(dd['watchers'].median())
+dd.head()
+dd.info()
+dd.isnull().sum()
+!!!
 # OUPUT
