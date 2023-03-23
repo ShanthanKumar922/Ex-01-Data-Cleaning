@@ -19,4 +19,6 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
+Name: O.Shanthan Kumar Reddy
+Reg No.: 212220040107
 # OUPUT
