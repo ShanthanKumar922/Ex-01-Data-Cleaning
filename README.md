@@ -19,8 +19,8 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
-Name : Aakash H
-Register Number : 212220040002
+Name : O. Shanthan Kumar Reddy
+Register Number : 212220040107
 
 /* 
 # **Data Cleaning - Data_set.csv**
