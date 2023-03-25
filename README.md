@@ -69,39 +69,42 @@ data.isnull().sum()
 ![data set 1](https://user-images.githubusercontent.com/127843136/227728768-bbccf434-e25c-4aa9-ba7e-7596c26adef4.png)
 
 ## Before Cleaning
-![Data Cleaning](/images/img2.png)
-![Data Cleaning](/images/img3.png)
+![Data set 2](https://user-images.githubusercontent.com/127843136/227729073-8d51b114-e4b9-4bed-a981-4e977424b7ca.png)
+![Data set 3](https://user-images.githubusercontent.com/127843136/227728980-00e240b9-e061-456e-a710-d641a9f04104.png)
+![data set 4](https://user-images.githubusercontent.com/127843136/227729047-72f38e74-bdf2-4268-9c71-de0bd27fcd8c.png)
 
 ## Mode
-![Data Cleaning](/images/mode.png)
+![Mode](https://user-images.githubusercontent.com/127843136/227729179-e63080d0-7d3b-49df-ad91-e11f96f5d186.png)
 
 ## Mean
-![Data Cleaning](/images/mean.png)
+![Mean](https://user-images.githubusercontent.com/127843136/227729192-17362c03-cefa-49fd-bf87-adb568cb711d.png)
 
 ## Median
-![Data Cleaning](/images/median.png)
+![Median](https://user-images.githubusercontent.com/127843136/227729199-778aaa9e-3be6-4a50-9fda-ff4ff09ce825.png)
 
 ## After Cleaning
-![Data Cleaning](/images/img4.png)
+![After Cleaning Data set](https://user-images.githubusercontent.com/127843136/227729205-f0fbcd0d-a399-4c63-8e6b-a38d77785987.png)
 
 ## Data Cleaning - Loan_data.csv
-![Data Cleaning](/images/image1.png)
+
+![Loan data 1](https://user-images.githubusercontent.com/127843136/227729245-a3c6fd03-1fa8-42cf-80a0-30e56a790b78.png)
 
 ## Before Cleaning
-![Data Cleaning](/images/image2.png)
-![Data Cleaning](/images/image3.png)
+![Loan data 3](https://user-images.githubusercontent.com/127843136/227729261-ab45868e-a37d-4327-9cab-de461d253df8.png)
+![Loan data 4](https://user-images.githubusercontent.com/127843136/227729265-af7ab162-8da6-41c5-83f8-8f44ac3ed842.png)
+![Loan data 5](https://user-images.githubusercontent.com/127843136/227729285-cd3afccd-660a-41b2-addc-a7c41b590ab9.png)
 
 ## Mode
-![Data Cleaning](/images/mode2.png)
+![Loan data Mode](https://user-images.githubusercontent.com/127843136/227729529-8674063c-af7b-4a8e-8c21-37faa7913458.png)
 
 ## Mean
-![Data Cleaning](/images/mean2.png)
+![Loan data Mean](https://user-images.githubusercontent.com/127843136/227729536-eb122938-efc7-4a22-88b5-45fa4bc8fa3b.png)
 
 ## Median
-![Data Cleaning](/images/median2.png)
+![Medain Loan Data](https://user-images.githubusercontent.com/127843136/227729542-4b732463-83f0-4b1b-96c7-ea4c8436136c.png)
 
 ## After Cleaning
-![Data Cleaning](/images/image4.png)
+![Loan data 8](https://user-images.githubusercontent.com/127843136/227729553-a3b52952-3d18-49ad-b879-61c893a5e738.png)
 
 # RESULT
 Thus the given data is read, cleansed and the cleaned data is saved into the file.
