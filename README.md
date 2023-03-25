@@ -66,7 +66,7 @@ data.isnull().sum()
 ```
 # OUPUT
 ## Data Cleaning - Data_set.csv
-![Data Cleaning](/images/img.png)
+![data set 1](https://user-images.githubusercontent.com/127843136/227728768-bbccf434-e25c-4aa9-ba7e-7596c26adef4.png)
 
 ## Before Cleaning
 ![Data Cleaning](/images/img2.png)
