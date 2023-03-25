@@ -90,7 +90,6 @@ data.isnull().sum()
 ![Loan data 1](https://user-images.githubusercontent.com/127843136/227729245-a3c6fd03-1fa8-42cf-80a0-30e56a790b78.png)
 
 ## Before Cleaning
-![Uploading Loan Data 10.png…]()
 ![Loan data 3](https://user-images.githubusercontent.com/127843136/227729261-ab45868e-a37d-4327-9cab-de461d253df8.png)
 ![Loan data 4](https://user-images.githubusercontent.com/127843136/227729265-af7ab162-8da6-41c5-83f8-8f44ac3ed842.png)
 ![Loan data 5](https://user-images.githubusercontent.com/127843136/227729285-cd3afccd-660a-41b2-addc-a7c41b590ab9.png)
